@@ -148,17 +148,6 @@ function ProductTable({ selectedItems, setSelectedItems }) {
           </motion.button>
           <div className="flex items-center">
             <span className="mr-2 text-sm">May 2025</span>
-            <div className="relative inline-block w-10 align-middle select-none">
-              <input 
-                type="checkbox" 
-                className="toggle-checkbox absolute block w-6 h-6 rounded-full bg-white border-2 border-gray-300 appearance-none cursor-pointer transition-transform duration-200 transform translate-x-0"
-                id="toggle-stats" 
-              />
-              <label 
-                htmlFor="toggle-stats" 
-                className="toggle-label block overflow-hidden h-6 rounded-full bg-gray-300 cursor-pointer"
-              />
-            </div>
           </div>
         </div>
      
