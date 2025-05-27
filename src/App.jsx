@@ -1,5 +1,5 @@
 import React from "react";
-import Admin from "./pages/Admin";
+import Admin from "./Pages/Admin";
 import "./App.css";
 
 function App() {

@@ -4,10 +4,8 @@ import {
   IoFilterOutline, 
   IoArrowDownOutline, 
   IoEllipsisVerticalOutline, 
-  IoStarOutline,
   IoChevronBackOutline,
   IoChevronForwardOutline,
-  IoChevronDownOutline,
   IoDownloadOutline
 } from 'react-icons/io5';
 import jsPDF from 'jspdf';
