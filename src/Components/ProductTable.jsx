@@ -51,7 +51,7 @@ function ProductTable({ selectedItems, setSelectedItems }) {
     {
       id: 4,
       clients: "KPMG",
-      person: "Mr. Mohan",
+      person: "Mrs. Sunita",
       remark: "Meeting Again",
       sale: "$35,550",
       date: "04/05/2025",
@@ -60,8 +60,8 @@ function ProductTable({ selectedItems, setSelectedItems }) {
     },
     {
       id: 5,
-      clients: "Infosis",
-      person: "Mr. Sharma",
+      clients: "Google",
+      person: "Mrs. Anjali",
       remark: "Wants Lower Rates",
       sale: "$67,000",
       date: "25/05/2025",
@@ -70,8 +70,8 @@ function ProductTable({ selectedItems, setSelectedItems }) {
     },
     {
       id: 6,
-      clients: "CEAT",
-      person: "Mr. Ishwar",
+      clients: "Tesla",
+      person: "Mr. Robin",
       remark: "Need Follow Up",
       sale: "$48,430.25",
       date: "19/05/2025",
